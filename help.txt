@@ -1,7 +1,0 @@
-
-
-
-
-
-
-Esta linea de texto se hizo en la rama "main" del repositorio. La intencion es hacer la fusion con la rama "pruebas" para fusionar los archivos de "main" y "pruebas".
