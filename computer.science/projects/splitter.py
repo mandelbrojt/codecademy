@@ -17,16 +17,6 @@ class Group:
     def __init__(self, group_name, group_type, currency="USD"):
         self.group_name = group_name
         self.group_type = group_type
-        if self.group_type < 1:
-            self.group_type = "Other"
-        elif self.group_type == 1:
-            self.group_type = "Travel"
-        elif self.group_type == 2:
-            self.group_type = "Home"
-        elif self.group_type == 3:
-            self.group_type = "Friends"
-        elif self.group_type >= 4:
-            self.group_type = "Other"
         self.currency = currency
         self.members = []
 
