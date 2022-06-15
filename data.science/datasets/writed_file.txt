@@ -1,0 +1,2 @@
+This is a text file written with a Python script!
+This line was appended to the text file with a Python script ;)
